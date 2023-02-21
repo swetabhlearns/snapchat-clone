@@ -4,10 +4,14 @@ This is a [Snapchat clone](https://snapchat-clone-6eaf8.web.app/chats) applicati
 
 ##Installation
 
-1. Clone the repository ###`git clone https://github.com/swetabhlearns/snapchat-clone.git`
-2. Navigate to the project directory: ###`cd snapchat-clone`
-3. Install dependencies ###`npm install`
-4. Start the Application ###`npm start`
+1. Clone the repository
+   `git clone https://github.com/swetabhlearns/snapchat-clone.git`
+2. Navigate to the project directory
+   `cd snapchat-clone`
+3. Install dependencies
+   `npm install`
+4. Start the Application
+   `npm start`
 
 ##Features
 The Snapchat clone application includes the following features:
